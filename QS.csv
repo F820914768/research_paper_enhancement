@@ -1,0 +1,1026 @@
+ID,Institution_Name,Country,Score
+0,massachusetts institute of technology (mit),United States,100
+1,stanford university,United States,98.6
+2,harvard university,United States,98.5
+3,california institute of technology (caltech),United States,97.2
+4,university of oxford,United Kingdom,96.8
+5,university of cambridge,United Kingdom,95.6
+6,eth zurich (swiss federal institute of technology),Switzerland,95.3
+7,imperial college london,United Kingdom,93.3
+8,university of chicago,United States,93.2
+9,ucl (university college london),United Kingdom,92.9
+10,national university of singapore (nus),Singapore,92
+11,nanyang technological university (ntu),Singapore,91.3
+12,princeton university,United States,90.9
+13,cornell university,United States,90.5
+14,yale university,United States,89.6
+15,columbia university,United States,88.5
+16,tsinghua university,China,87.2
+17,university of edinburgh,United Kingdom,86.9
+18,university of pennsylvania,United States,86.5
+19,university of michigan,United States,86.4
+20,johns hopkins university,United States,85.9
+21,école polytechnique fédérale de lausanne (epfl),Switzerland,85.8
+22,the university of tokyo,Japan,85.3
+23,australian national university (anu),Australia,84.4
+24,university of hong kong (hku),Hong Kong,84.3
+25,duke university,United States,83.9
+26,"university of california, berkeley (ucb)",United States,83.2
+27,university of toronto,Canada,83
+28,the university of manchester,United Kingdom,82.9
+29,peking university,China,82.6
+30,king's college london (kcl),United Kingdom,82.5
+31,"university of california, los angeles (ucla)",United States,81.9
+32,mcgill university,Canada,81.7
+33,northwestern university,United States,81.5
+34,kyoto university,Japan,81.2
+35,seoul national university (snu),South Korea,80.6
+36,the hong kong university of science and technology (hkust),Hong Kong,80.5
+37,london school of economics and political science (lse),United Kingdom,80.2
+38,the university of melbourne,Australia,80.1
+39,kaist - korea advanced institute of science and technology,South Korea,78.7
+40,"university of california, san diego (ucsd)",United States,78.6
+41,the university of sydney,Australia,78.3
+42,new york university (nyu),United States,77.7
+43,fudan university,China,77.6
+44,the university of new south wales (unsw),Australia,77
+45,carnegie mellon university,United States,76.6
+46,university of british columbia,Canada,75.8
+47,the university of queensland (uq),Australia,75.7
+48,the chinese university of hong kong (cuhk),Hong Kong,75.6
+49,psl university,France,75.1
+50,university of bristol,United Kingdom,74.9
+51,delft university of technology,Netherlands,73.3
+52,university of wisconsin-madison,United States,73.2
+53,the university of warwick,United Kingdom,72.9
+54,city university of hong kong,Hong Kong,72.1
+55,brown university,United States,72
+56,university of amsterdam,Netherlands,71.1
+57,tokyo institute of technology,Japan,71
+58,monash university,Australia,70.4
+59,shanghai jiao tong university,China,70.4
+60,technische universität münchen,Germany,70
+61,ludwig-maximilians-universität münchen,Germany,69.4
+62,university of texas at austin,United States,68.7
+63,ruprecht-karls-universität heidelberg,Germany,68
+64,ecole polytechnique,France,67.9
+65,university of washington,United States,67.8
+66,osaka university,Japan,67.7
+67,zhejiang university,China,67.5
+68,georgia institute of technology (georgia tech),United States,67.4
+69,university of glasgow,United Kingdom,67.4
+70,university of illinois at urbana-champaign,United States,67
+71,national taiwan university (ntu),Taiwan,66.3
+72,universidad de buenos aires,Argentina,66.2
+73,durham university,United Kingdom,65.7
+74,sorbonne university,France,64.8
+75,the university of sheffield,United Kingdom,64.8
+76,tohoku university,Japan,64.3
+77,university of zurich,Switzerland,63.6
+78,university of birmingham,United Kingdom,63.5
+79,university of copenhagen,Denmark,63.5
+80,katholieke universiteit leuven,Belgium,63.4
+81,the university of nottingham,United Kingdom,63.1
+82,pohang university of science and technology (postech),South Korea,63
+83,"university of north carolina, chapel hill",United States,63
+84,the university of auckland,New Zealand,62.8
+85,korea university,South Korea,62.7
+86,rice university,United States,62.6
+87,universiti malaya (um),Malaysia,62.6
+88,ohio state university,United States,62.4
+89,lomonosov moscow state university,Russia,62.3
+90,the university of western australia (uwa),Australia,62.2
+91,lund university,Sweden,62.1
+92,boston university,United States,62
+93,university of leeds,United Kingdom,62
+94,pennsylvania state university,United States,61.9
+95,university of southampton,United Kingdom,61.6
+96,university of st andrews,United Kingdom,61.4
+97,university of science and technology of china,China,60.8
+98,eindhoven university of technology,Netherlands,59.8
+99,purdue university,United States,59.5
+100,sungkyunkwan university,South Korea,59.5
+101,"university of california, davis (ucd)",United States,59.5
+102,washington university in st. louis,United States,59.5
+103,"kth, royal institute of technology",Sweden,59.3
+104,trinity college dublin (tcd),Ireland,59.3
+105,the hong kong polytechnic university,Hong Kong,59.1
+106,yonsei university,South Korea,58.9
+107,university of geneva,Switzerland,58.4
+108,university of alberta,Canada,58.1
+109,university of helsinki,Finland,57.9
+110,nagoya university,Japan,57.3
+111,technical university of denmark,Denmark,57.1
+112,universidad nacional autónoma de méxico (unam),Mexico,56.8
+113,the university of adelaide,Australia,56.6
+114,university of southern california,United States,56.2
+115,"kit, karlsruher institut für technologie",Germany,55.9
+116,uppsala university,Sweden,55.8
+117,universidade de são paulo (usp),Brazil,55.5
+118,queen mary university of london (qmul),United Kingdom,55.4
+119,university of groningen,Netherlands,55.2
+120,humboldt-universität zu berlin,Germany,55.1
+121,leiden university,Netherlands,55
+122,nanjing university,China,55
+123,utrecht university,Netherlands,54.5
+124,wageningen university,Netherlands,54.4
+125,kyushu university,Japan,54.1
+126,"university of maryland, college park",United States,54.1
+127,chalmers university of technology,Sweden,53.6
+128,hokkaido university,Japan,53.6
+129,freie universität berlin,Germany,53.4
+130,lancaster university,United Kingdom,53
+131,pontificia universidad católica de chile,Chile,52.9
+132,"university of california, santa barbara (ucsb)",United States,52.9
+133,university of york,United Kingdom,52.4
+134,university of oslo,Norway,51.9
+135,university of pittsburgh,United States,51.8
+136,centralesupélec,France,51.5
+137,university of ghent,Belgium,51.3
+138,university of bern,Switzerland,51.1
+139,aalto university,Finland,50.8
+140,aarhus university,Denmark,50.7
+141,michigan state university,United States,50.7
+142,newcastle university,United Kingdom,50.7
+143,rheinisch-westfälische technische hochschule aachen,Germany,50.4
+144,cardiff university,United Kingdom,50.3
+145,mcmaster university,Canada,50.1
+146,technische universität berlin,Germany,49.9
+147,emory university,United States,49.6
+148,université de montréal,Canada,49.5
+149,university of lausanne,Switzerland,49.5
+150,hanyang university,South Korea,49.4
+151,university of liverpool,United Kingdom,49.4
+152,école normale supérieure de lyon,France,49.2
+153,hebrew university of jerusalem,Israel,49.1
+154,university of exeter,United Kingdom,49.1
+155,politecnico di milano,Italy,48.7
+156,university of minnesota,United States,48.7
+157,university of bath,United Kingdom,48.6
+158,universidad autónoma de madrid,Spain,48.5
+159,university of basel,Switzerland,48.4
+160,university of technology sydney (uts),Australia,48.4
+161,indian institute of technology bombay (iitb),India,48.2
+162,national tsing hua university,Taiwan,48
+163,university of waterloo,Canada,48
+164,université catholique de louvain (ucl),Belgium,47.9
+165,universitat de barcelona (ub),Spain,47.8
+166,scuola superiore sant'anna pisa,Italy,47.7
+167,eberhard karls universität tübingen,Germany,47.6
+168,"university of california, irvine (uci)",United States,47.5
+169,indian institute of science (iisc) bangalore,India,47.1
+170,university of bergen,Norway,46.8
+171,indian institute of technology delhi (iitd),India,46.6
+172,university of aberdeen,United Kingdom,46.6
+173,university of twente,Netherlands,46.6
+174,scuola normale superiore di pisa,Italy,46.4
+175,universität wien,Austria,46.4
+176,university of otago,New Zealand,46.4
+177,tecnológico de monterrey (itesm),Mexico,46.2
+178,erasmus university rotterdam,Netherlands,46.1
+179,queen's university of belfast,United Kingdom,45.9
+180,università di bologna (unibo),Italy,45.9
+181,university of florida,United States,45.9
+182,dartmouth college,United States,45.8
+183,universiti kebangsaan malaysia (ukm),Malaysia,45.5
+184,university of rochester,United States,45.5
+185,case western reserve university,United States,45.4
+186,universität freiburg,Germany,45.4
+187,vrije universiteit brussel (vub),Belgium,45.2
+188,king fahd university of petroleum & minerals (kfupm),Saudi Arabia,45.1
+189,university of colorado at boulder,United States,45
+190,technische universität dresden,Germany,44.9
+191,university of virginia,United States,44.8
+192,universitat autónoma de barcelona,Spain,44.7
+193,university college dublin (ucd),Ireland,44.7
+194,university of reading,United Kingdom,44.4
+195,vanderbilt university,United States,44.4
+196,georg-august-universität göttingen,Germany,44.3
+197,keio university,Japan,44.1
+198,technische universität wien,Austria,44
+199,stockholm university,Sweden,43.9
+200,university of cape town,South Africa,43.9
+201,universiti putra malaysia (upm),Malaysia,43.8
+202,texas a&m university,United States,43.5
+203,radboud university nijmegen,Netherlands,43.3
+204,universidade estadual de campinas (unicamp),Brazil,43.3
+205,universidad complutense de madrid (ucm),Spain,43.2
+206,universiti sains malaysia (usm),Malaysia,43
+207,national chiao tung university,Taiwan,42.6
+208,universidad de chile,Chile,42.6
+209,waseda university,Japan,42.6
+210,maastricht university,Netherlands,42.5
+211,arizona state university,United States,42.3
+212,university of notre dame,United States,42.3
+213,"university of illinois, chicago (uic)",United States,42
+214,university of newcastle,Australia,42
+215,western university,Canada,42
+216,sapienza - università di roma,Italy,41.8
+217,loughborough university,United Kingdom,41.4
+218,university of wollongong,Australia,41.4
+219,al-farabi kazakh national university,Kazakhstan,41.3
+220,sciences po paris,France,41
+221,victoria university of wellington,New Zealand,41
+222,universität hamburg,Germany,40.9
+223,university of antwerp,Belgium,40.9
+224,university of leicester,United Kingdom,40.9
+225,georgetown university,United States,40.8
+226,university of sussex,United Kingdom,40.7
+227,universiti teknologi malaysia (utm),Malaysia,40.5
+228,university of calgary,Canada,40.4
+229,tel aviv university,Israel,40.3
+230,king abdul aziz university (kau),Saudi Arabia,40
+231,university of canterbury,New Zealand,40
+232,vrije universiteit amsterdam,Netherlands,40
+233,national cheng kung university,Taiwan,39.4
+234,saint-petersburg state university,Russia,39.2
+235,royal holloway university of london,United Kingdom,39.1
+236,american university of beirut (aub),Lebanon,39
+237,tufts university,United States,39
+238,queen's university,Canada,38.9
+239,université libre de bruxelles (ulb),Belgium,38.9
+240,université paris-sud 11,France,38.9
+241,universidad de navarra,Spain,38.8
+242,university of miami,United States,38.8
+243,novosibirsk state university,Russia,38.7
+244,queensland university of technology (qut),Australia,38.7
+245,university of arizona,United States,38.5
+246,technion - israel institute of technology,Israel,38.4
+247,university of surrey,United Kingdom,38.3
+248,università degli studi di padova (unipd),Italy,38.2
+249,curtin university,Australia,38
+250,macquarie university,Australia,38
+251,rmit university,Australia,38
+252,technische universität darmstadt,Germany,37.9
+253,universidad carlos iii de madrid,Spain,37.9
+254,rheinische friedrich-wilhelms-universität bonn,Germany,37.7
+255,king saud university (ksu),Saudi Arabia,37.6
+256,national taiwan university of science and technology,Taiwan,37.5
+257,wuhan university,China,37.5
+258,"university of massachusetts, amherst",United States,37.3
+259,"national university of ireland, galway (nuig)",Ireland,37.1
+260,universität stuttgart,Germany,37.1
+261,university of tsukuba,Japan,37.1
+262,ecole des ponts paristech,France,37
+263,indian institute of technology madras (iitm),India,36.7
+264,kyung hee university,South Korea,36.7
+265,simon fraser university,Canada,36.7
+266,university of south australia (unisa),Australia,36.7
+267,university of strathclyde,United Kingdom,36.6
+268,university of east anglia (uea),United Kingdom,36.4
+269,university of gothenburg,Sweden,36.4
+270,chulalongkorn university,Thailand,36.3
+271,universidad de los andes colombia,Colombia,36.1
+272,university of dundee,United Kingdom,36.1
+273,university of waikato,New Zealand,36
+274,universidad nacional de colombia,Colombia,35.9
+275,universitat politècnica de catalunya,Spain,35.9
+276,hong kong baptist university (hkbu),Hong Kong,35.8
+277,tomsk state university,Russia,35.8
+278,dalhousie university,Canada,35.7
+279,north carolina state university,United States,35.7
+280,universität frankfurt am main,Germany,35.7
+281,universität innsbruck,Austria,35.7
+282,indian institute of technology kanpur (iitk),India,35.6
+283,"rutgers - the state university of new jersey, new brunswick",United States,35.6
+284,harbin institute of technology,China,35.3
+285,university of turku,Finland,35.3
+286,university of tasmania,Australia,35.2
+287,"soas - school of oriental and african studies, university of london",United Kingdom,35.1
+288,université grenoble-alpes (uga),France,35
+289,university of ottawa,Canada,35
+290,tongji university,China,34.9
+291,beijing normal university,China,34.8
+292,national yang ming university,Taiwan,34.8
+293,university of indonesia,Indonesia,34.8
+294,indian institute of technology kharagpur (iitkgp),India,34.7
+295,sun yat-sen university,China,34.7
+296,université paris diderot - paris 7,France,34.7
+297,universitat pompeu fabra,Spain,34.6
+298,bauman moscow state technical university,Russia,34.5
+299,universität erlangen-nürnberg,Germany,34.5
+300,université paris 1 panthéon-sorbonne,France,34.5
+301,heriot-watt university,United Kingdom,34.4
+302,linköping university,Sweden,34.4
+303,university of hawaii at mānoa,United States,34.4
+304,ecole normale supérieure de cachan,France,34.3
+305,"birkbeck college, university of london",United Kingdom,34.2
+306,universität köln,Germany,34.2
+307,national taiwan normal university,Taiwan,34.1
+308,deakin university,Australia,34
+309,universidad politecnica de valencia,Spain,33.7
+310,yeshiva university,United States,33.7
+311,moscow institute of physics and technology state university,Russia,33.6
+312,university at buffalo suny,United States,33.4
+313,xi'an jiaotong university,China,33.4
+314,gwangju institute of science and technology (gist),South Korea,33.3
+315,khalifa university,United Arab Emirates,33.3
+316,charles university,Czech Republic,33.2
+317,lincoln university,New Zealand,33.2
+318,ewha womans university,South Korea,33.1
+319,tilburg university,Netherlands,33.1
+320,hiroshima university,Japan,32.8
+321,university of tartu,Estonia,32.8
+322,indiana university bloomington,United States,32.7
+323,university of brunei darussalam,Brunei,32.7
+324,università degli studi di milano,Italy,32.5
+325,northeastern university,United States,32.3
+326,universität jena,Germany,32.3
+327,university of porto,Portugal,32.2
+328,griffith university,Australia,32.1
+329,"national research nuclear university ""mephi"" (moscow engineering physics institute)",Russia,32.1
+330,westfälische wilhelms-universität münster,Germany,32.1
+331,brunel university,United Kingdom,32
+332,massey university,New Zealand,32
+333,qatar university,Qatar,32
+334,universität ulm,Germany,32
+335,"university of california, santa cruz (ucsc)",United States,31.9
+336,university of jyväskylä,Finland,31.9
+337,nankai university,China,31.7
+338,umeå university,Sweden,31.7
+339,universität mannheim,Germany,31.7
+340,university college cork (ucc),Ireland,31.7
+341,virginia polytechnic institute (virginia tech),United States,31.7
+342,aalborg university,Denmark,31.6
+343,national research university - higher school of economics (hse),Russia,31.6
+344,george washington university,United States,31.5
+345,rensselaer polytechnic institute,United States,31.5
+346,university of utah,United States,31.5
+347,université de strasbourg,France,31.3
+348,stony brook university,United States,31.2
+349,united arab emirates university,United Arab Emirates,31.1
+350,city university london,United Kingdom,31
+351,kobe university,Japan,30.9
+352,tokyo medical and dental university,Japan,30.9
+353,belarus state university,Belarus,30.8
+354,moscow state institute of international relations – mgimo university,Russia,30.7
+355,university of essex,United Kingdom,30.7
+356,university of kent,United Kingdom,30.7
+357,university of lisbon,Portugal,30.7
+358,bandung institute of technology (itb),Indonesia,30.4
+359,university of victoria,Canada,30.4
+360,universidade federal do rio de janeiro,Brazil,30.3
+361,taipei medical university,Taiwan,30.2
+362,norwegian university of science and technology,Norway,30.1
+363,oxford brookes university,United Kingdom,30.1
+364,technische universität graz,Austria,30.1
+365,tampere university of technology,Finland,30
+366,universidad austral,Argentina,29.9
+367,university of kansas,United States,29.9
+368,james cook university (jcu),Australia,29.7
+369,pontificia universidad católica argentina santa maría de los buenos aires (uca),Argentina,29.7
+370,university of tromso,Norway,29.7
+371,ruhr-universität bochum,Germany,29.6
+372,tomsk polytechnic university,Russia,29.4
+373,university of connecticut,United States,29.4
+374,university of st gallen (hsg),Switzerland,29.3
+375,american university of sharjah,United Arab Emirates,29.2
+376,boston college,United States,29.2
+377,university of oulu,Finland,29.2
+378,university of southern denmark,Denmark,29.2
+379,mahidol university,Thailand,29.1
+380,aston university,United Kingdom,29
+381,indian institute of technology roorkee (iitr),India,29
+382,university of the witwatersrand,South Africa,29
+383,universidad de belgrano,Argentina,28.8
+384,"university of california, riverside (ucr)",United States,28.8
+385,university of the philippines,Philippines,28.8
+386,hufs – hankuk (korea) university of foreign studies,South Korea,28.7
+387,politecnico di torino,Italy,28.7
+388,swinburne university of technology,Australia,28.7
+389,wake forest university,United States,28.7
+390,universitas gadjah mada,Indonesia,28.6
+391,university of liege,Belgium,28.6
+392,washington state university,United States,28.6
+393,l.n. gumilyov eurasian national university,Kazakhstan,28.5
+394,university of warsaw,Poland,28.5
+395,"goldsmiths, university of london",United Kingdom,28.3
+396,chung-ang university,South Korea,28.2
+397,la trobe university,Australia,28.2
+398,pakistan institute of engineering and applied sciences (pieas),Pakistan,28.2
+399,universität konstanz,Germany,28.2
+400,university of colorado at denver,United States,28.2
+401,laval university,Canada,28.1
+402,national sun yat-sen university,Taiwan,28.1
+403,peter the great st.petersburg polytechnic university,Russia,28
+404,stellenbosch university,South Africa,27.9
+405,universidade nova de lisboa,Portugal,27.9
+406,ben gurion university of the negev,Israel,27.7
+407,johannes gutenberg universität mainz,Germany,27.7
+408,universidad externado de colombia,Colombia,27.7
+409,university of coimbra,Portugal,27.7
+410,jagiellonian university,Poland,27.6
+411,tulane university,United States,27.5
+412,universidad de zaragoza,Spain,27.5
+413,ural federal university,Russia,27.5
+414,huazhong university of science and technology,China,27.4
+415,national central university,Taiwan,27.4
+416,national university of sciences and technology (nust) islamabad,Pakistan,27.3
+417,university of stirling,United Kingdom,27.3
+418,university of tennessee,United States,27.2
+419,american university in cairo,Egypt,27.1
+420,universidad de palermo,Argentina,27.1
+421,dublin city university (dcu),Ireland,27
+422,shanghai university,China,27
+423,università di pisa,Italy,27
+424,université de montpellier,France,27
+425,illinois institute of technology,United States,26.9
+426,università degli studi di trento,Italy,26.9
+427,university of texas dallas,United States,26.9
+428,brandeis university,United States,26.8
+429,chang gung university,Taiwan,26.8
+430,the university of georgia,United States,26.7
+431,aberystwyth university,United Kingdom,26.5
+432,dongguk university,South Korea,26.5
+433,sharif university of technology,Iran,26.5
+434,bangor university,United Kingdom,26.4
+435,sogang university,South Korea,26.4
+436,swansea university,United Kingdom,26.4
+437,university of iowa,United States,26.4
+438,kazan federal university,Russia,26.2
+439,university of delaware,United States,26.2
+440,wayne state university,United States,26.2
+441,universiti teknologi brunei,Brunei,26.1
+442,bond university,Australia,26
+443,tianjin university,China,26
+444,university of macau,Macau,26
+445,national technical university of athens,Greece,25.9
+446,rudn university,Russia,25.9
+447,king khalid university,Saudi Arabia,25.8
+448,koç university,Turkey,25.8
+449,colorado state university,United States,25.7
+450,oregon state university,United States,25.7
+451,sultan qaboos university,Oman,25.7
+452,christian-albrechts-universität zu kiel,Germany,25.6
+453,université aix-marseille,France,25.6
+454,"university of maryland, baltimore county",United States,25.6
+455,bilkent university,Turkey,25.5
+456,hitotsubashi university,Japan,25.5
+457,johannes kepler universität linz (jku),Austria,25.5
+458,the catholic university of korea,South Korea,25.5
+459,yokohama city university,Japan,25.4
+460,clark university,United States,25.3
+461,universität des saarlandes,Germany,25.3
+462,university of saskatchewan,Canada,25.3
+463,auckland university of technology,New Zealand,25.2
+464,beijing institute of technology,China,25.2
+465,chiba university,Japan,25.2
+466,concordia university,Canada,25.2
+467,kazakh national technical university after k.i.satpayev,Kazakhstan,25.2
+468,universidade federal de são paulo (unifesp),Brazil,25.2
+469,universidad politécnica de madrid,Spain,25.1
+470,university of szeged,Hungary,25.1
+471,florida state university,United States,25
+472,indian institute of technology guwahati (iitg),India,25
+473,università degli studi di napoli federico ii,Italy,25
+474,jilin university,China,24.8
+475,"national university of science and technology ""misis""",Russia,24.7
+476,xiamen university,China,24.7
+477,flinders university,Australia,24.6
+478,institut national des sciences appliquées de lyon (insa),France,24.6
+479,m.o.auezov south kazakhstan state university,Kazakhstan,24.5
+480,kazakh national pedagogical university abai,Kazakhstan,24.4
+481,ucsi university,Malaysia,24.4
+482,universidad de alcalá,Spain,24.4
+483,university of eastern finland,Finland,24.4
+484,v.n. karazin kharkiv national university,Ukraine,24.4
+485,york university,Canada,24.4
+486,university of delhi,India,24.2
+487,vilnius university,Lithuania,24.1
+488,iowa state university,United States,24
+489,université de bordeaux,France,24
+490,beihang university,China,23.9
+491,"universidade estadual paulista ""júlio de mesquita filho""",Brazil,23.9
+492,università cattolica del sacro cuore,Italy,23.9
+493,university of new mexico,United States,23.8
+494,universidad de granada,Spain,23.7
+495,universität hohenheim,Germany,23.7
+496,university of oklahoma,United States,23.7
+497,amirkabir university of technology,Iran,23.6
+498,western sydney university,Australia,23.6
+499,singapore management university,Singapore,23.5
+500,technische universität braunschweig,Germany,23.5
+501,université saint-joseph de beyrouth,Lebanon,23.5
+502,university of science and technology beijing,China,23.5
+503,drexel university,United States,23.1 - 23.4
+504,east china normal university,China,23.1 - 23.4
+505,howard university,United States,23.1 - 23.4
+506,lehigh university,United States,23.1 - 23.4
+507,national research saratov state university,Russia,23.1 - 23.4
+508,pusan national university,South Korea,23.1 - 23.4
+509,sabanci university,Turkey,23.1 - 23.4
+510,universidad de costa rica,Costa Rica,23.1 - 23.4
+511,università degli studi di firenze (unifi),Italy,23.1 - 23.4
+512,university of ulsan,South Korea,23.1 - 23.4
+513,itmo university,Russia,22.9 - 23
+514,kumamoto university,Japan,22.9 - 23
+515,okayama university,Japan,22.9 - 23
+516,southeast university,China,22.9 - 23
+517,universidad de la habana,Cuba,22.9 - 23
+518,universidad de santiago de chile (usach),Chile,22.9 - 23
+519,universitá degli studi di roma - tor vergata,Italy,22.9 - 23
+520,universität bremen,Germany,22.9 - 23
+521,university of limerick (ul),Ireland,22.9 - 23
+522,cairo university,Egypt,22.6 - 22.8
+523,julius-maximilians-universität würzburg,Germany,22.6 - 22.8
+524,lappeenranta university of technology,Finland,22.6 - 22.8
+525,nagasaki university,Japan,22.6 - 22.8
+526,pontificia universidad javeriana,Colombia,22.6 - 22.8
+527,renmin (people’s) university of china,China,22.6 - 22.8
+528,université paul sabatier toulouse iii,France,22.6 - 22.8
+529,universiti teknologi petronas (petronas),Malaysia,22.6 - 22.8
+530,university of south florida,United States,22.6 - 22.8
+531,abo akademi university,Finland,22.2 - 22.5
+532,czech technical university in prague,Czech Republic,22.2 - 22.5
+533,east china university of science and technology,China,22.2 - 22.5
+534,new school university,United States,22.2 - 22.5
+535,pontificia universidade católica de são paulo (puc-sp),Brazil,22.2 - 22.5
+536,southern federal university,Russia,22.2 - 22.5
+537,taras shevchenko national university of kyiv,Ukraine,22.2 - 22.5
+538,universidad de montevideo,Uruguay,22.2 - 22.5
+539,université panthéon-assas (paris 2),France,22.2 - 22.5
+540,university of aveiro,Portugal,22.2 - 22.5
+541,university of vermont,United States,22.2 - 22.5
+542,american university,United States,21.9 - 22.1
+543,far eastern federal university,Russia,21.9 - 22.1
+544,osaka city university,Japan,21.9 - 22.1
+545,shandong university,China,21.9 - 22.1
+546,south china university of technology,China,21.9 - 22.1
+547,umm al-qura university (uqu),Saudi Arabia,21.9 - 22.1
+548,universitat ramon llull,Spain,21.9 - 22.1
+549,université du québec,Canada,21.9 - 22.1
+550,university of cincinnati,United States,21.9 - 22.1
+551,inha university,South Korea,21.5 - 21.8
+552,justus-liebig-universität gießen,Germany,21.5 - 21.8
+553,leibniz universität hannover,Germany,21.5 - 21.8
+554,middle east technical university,Turkey,21.5 - 21.8
+555,pontificia universidad católica del perú,Peru,21.5 - 21.8
+556,quaid-i-azam university,Pakistan,21.5 - 21.8
+557,syracuse university,United States,21.5 - 21.8
+558,university of johannesburg,South Africa,21.5 - 21.8
+559,university of kentucky,United States,21.5 - 21.8
+560,university of nebraska,United States,21.5 - 21.8
+561,american university in dubai,United Arab Emirates,21.1 - 21.4
+562,aristotle university of thessaloniki,Greece,21.1 - 21.4
+563,indiana university-purdue university indianapolis,United States,21.1 - 21.4
+564,kanazawa university,Japan,21.1 - 21.4
+565,karl-franzens-universität graz,Austria,21.1 - 21.4
+566,martin-luther-universität halle-wittenberg,Germany,21.1 - 21.4
+567,national taipei university of technology,Taiwan,21.1 - 21.4
+568,universitat de valència,Spain,21.1 - 21.4
+569,university of pretoria,South Africa,21.1 - 21.4
+570,university of south carolina at columbia,United States,21.1 - 21.4
+571,boğaziçi üniversitesi,Turkey,20.9 - 21
+572,chonbuk national university,South Korea,20.9 - 21
+573,coventry university,United Kingdom,20.9 - 21
+574,dalian university of technology,China,20.9 - 21
+575,masaryk university,Czech Republic,20.9 - 21
+576,sarajevo school of science and technology,Bosnia and Herzegovina,20.9 - 21
+577,tokyo university of agriculture and technology,Japan,20.9 - 21
+578,università degli studi di torino (unito),Italy,20.9 - 21
+579,universität regensburg,Germany,20.9 - 21
+580,université paris descartes,France,20.9 - 21
+581,college of william & mary,United States,20.5 - 20.8
+582,imam abdulrahman bin faisal university (iau) (formerly university of dammam),Saudi Arabia,20.5 - 20.8
+583,instituto tecnológico de buenos aires (itba),Argentina,20.5 - 20.8
+584,konkuk university,South Korea,20.5 - 20.8
+585,universidad anahuac,Mexico,20.5 - 20.8
+586,universidade de santiago de compostela,Spain,20.5 - 20.8
+587,università degli studi di pavia (unipv),Italy,20.5 - 20.8
+588,universität leipzig,Germany,20.5 - 20.8
+589,university of guelph,Canada,20.5 - 20.8
+590,"university of massachusetts, boston",United States,20.5 - 20.8
+591,university of oregon,United States,20.5 - 20.8
+592,vilnius gediminas technical university,Lithuania,20.5 - 20.8
+593,hallym university,South Korea,20.3 - 20.4
+594,"kingston university, london",United Kingdom,20.3 - 20.4
+595,michigan technological university,United States,20.3 - 20.4
+596,murdoch university,Australia,20.3 - 20.4
+597,universidad de salamanca,Spain,20.3 - 20.4
+598,universidad de san andrés,Argentina,20.3 - 20.4
+599,university of balamand,Lebanon,20.3 - 20.4
+600,university of bradford,United Kingdom,20.3 - 20.4
+601,university of hull,United Kingdom,20.3 - 20.4
+602,university of hyderabad,India,20.3 - 20.4
+603,"university of missouri, columbia",United States,20.3 - 20.4
+604,university of mons,Belgium,20.3 - 20.4
+605,altai state university,Russia,18.7 - 20.2
+606,bar-ilan university,Israel,18.7 - 20.2
+607,central queensland university,Australia,18.7 - 20.2
+608,city university of new york,United States,18.7 - 20.2
+609,clarkson university,United States,18.7 - 20.2
+610,iran university of science and technology,Iran,18.7 - 20.2
+611,jadavpur university,India,18.7 - 20.2
+612,kagoshima university,Japan,18.7 - 20.2
+613,keele university,United Kingdom,18.7 - 20.2
+614,lanzhou university,China,18.7 - 20.2
+615,lebanese american university,Lebanon,18.7 - 20.2
+616,lingnan university (hong kong),Hong Kong,18.7 - 20.2
+617,lobachevsky state university of nizhni novgorod,Russia,18.7 - 20.2
+618,national chengchi university,Taiwan,18.7 - 20.2
+619,"national technical university of ukraine ""kyiv polytechnic institute""",Ukraine,18.7 - 20.2
+620,osaka prefecture university,Japan,18.7 - 20.2
+621,philipps-universität marburg,Germany,18.7 - 20.2
+622,pontifícia universidade católica do rio de janeiro - puc - rio,Brazil,18.7 - 20.2
+623,"rutgers - the state university of new jersey, newark",United States,18.7 - 20.2
+624,sichuan university,China,18.7 - 20.2
+625,smith college,United States,18.7 - 20.2
+626,tallinn university of technology,Estonia,18.7 - 20.2
+627,taylor's university,Malaysia,18.7 - 20.2
+628,thammasat university,Thailand,18.7 - 20.2
+629,universidad de sevilla,Spain,18.7 - 20.2
+630,universidad del pais vasco,Spain,18.7 - 20.2
+631,universidad nacional de la plata,Argentina,18.7 - 20.2
+632,universidade federal de minas gerais,Brazil,18.7 - 20.2
+633,universidade federal do rio grande do sul,Brazil,18.7 - 20.2
+634,universität bayreuth,Germany,18.7 - 20.2
+635,universität duisburg-essen,Germany,18.7 - 20.2
+636,universität potsdam,Germany,18.7 - 20.2
+637,université claude bernard lyon 1,France,18.7 - 20.2
+638,université de fribourg,Switzerland,18.7 - 20.2
+639,universiti utara malaysia (uum),Malaysia,18.7 - 20.2
+640,university of canberra,Australia,18.7 - 20.2
+641,university of debrecen,Hungary,18.7 - 20.2
+642,university of jordan,Jordan,18.7 - 20.2
+643,university of manitoba,Canada,18.7 - 20.2
+644,university of milano-bicocca,Italy,18.7 - 20.2
+645,university of plymouth,United Kingdom,18.7 - 20.2
+646,university of portsmouth,United Kingdom,18.7 - 20.2
+647,university of tampere,Finland,18.7 - 20.2
+648,university of ulster,United Kingdom,18.7 - 20.2
+649,university of westminster,United Kingdom,18.7 - 20.2
+650,virginia commonwealth university,United States,18.7 - 20.2
+651,warsaw university of technology,Poland,18.7 - 20.2
+652,worcester polytechnic institute,United States,18.7 - 20.2
+653,ajou university,South Korea,17.2 - 18.6
+654,ateneo de manila university,Philippines,17.2 - 18.6
+655,brno university of technology,Czech Republic,17.2 - 18.6
+656,carleton university,Canada,17.2 - 18.6
+657,charles darwin university,Australia,17.2 - 18.6
+658,chiang mai university,Thailand,17.2 - 18.6
+659,china agricultural university,China,17.2 - 18.6
+660,chonnam national university,South Korea,17.2 - 18.6
+661,e.a.buketov karaganda state university,Kazakhstan,17.2 - 18.6
+662,gifu university,Japan,17.2 - 18.6
+663,holy spirit university of kaslik,Lebanon,17.2 - 18.6
+664,instituto politécnico nacional (ipn),Mexico,17.2 - 18.6
+665,instituto tecnológico autonomo de méxico (itam),Mexico,17.2 - 18.6
+666,international islamic university malaysia (iium),Malaysia,17.2 - 18.6
+667,istanbul technical university,Turkey,17.2 - 18.6
+668,jordan university of science and technology,Jordan,17.2 - 18.6
+669,kazakh national agrarian university,Kazakhstan,17.2 - 18.6
+670,kazakh-british technical university,Kazakhstan,17.2 - 18.6
+671,kyungpook national university,South Korea,17.2 - 18.6
+672,louisiana state university,United States,17.2 - 18.6
+673,memorial university of newfoundland,Canada,17.2 - 18.6
+674,national and kapodistrian university of athens,Greece,17.2 - 18.6
+675,national chung hsing university,Taiwan,17.2 - 18.6
+676,niigata university,Japan,17.2 - 18.6
+677,padjadjaran university,Indonesia,17.2 - 18.6
+678,palacký university in olomouc,Czech Republic,17.2 - 18.6
+679,sejong university,South Korea,17.2 - 18.6
+680,southern methodist university,United States,17.2 - 18.6
+681,stevens institute of technology,United States,17.2 - 18.6
+682,temple university,United States,17.2 - 18.6
+683,tokyo metropolitan university,Japan,17.2 - 18.6
+684,universidad de concepción,Chile,17.2 - 18.6
+685,universidad torcuato di tella,Argentina,17.2 - 18.6
+686,université de lille,France,17.2 - 18.6
+687,université de sherbrooke,Canada,17.2 - 18.6
+688,université nice sophia-antipolis,France,17.2 - 18.6
+689,university at albany suny,United States,17.2 - 18.6
+690,university of baghdad,Iraq,17.2 - 18.6
+691,university of crete,Greece,17.2 - 18.6
+692,university of denver,United States,17.2 - 18.6
+693,university of haifa,Israel,17.2 - 18.6
+694,university of houston,United States,17.2 - 18.6
+695,university of ljubljana,Slovenia,17.2 - 18.6
+696,university of minho,Portugal,17.2 - 18.6
+697,university of seoul,South Korea,17.2 - 18.6
+698,university of sharjah,United Arab Emirates,17.2 - 18.6
+699,university of windsor,Canada,17.2 - 18.6
+700,university of wyoming,United States,17.2 - 18.6
+701,victoria university,Australia,17.2 - 18.6
+702,abu dhabi university,United Arab Emirates,15.4 - 17.1
+703,ain shams university,Egypt,15.4 - 17.1
+704,alpen-adria-universität klagenfurt,Austria,15.4 - 17.1
+705,bogor agricultural university,Indonesia,15.4 - 17.1
+706,bournemouth university,United Kingdom,15.4 - 17.1
+707,chungnam national university,South Korea,15.4 - 17.1
+708,clemson university,United States,15.4 - 17.1
+709,dankook university,South Korea,15.4 - 17.1
+710,eotvos lorand university,Hungary,15.4 - 17.1
+711,georgia state university,United States,15.4 - 17.1
+712,gunma university,Japan,15.4 - 17.1
+713,hunan university,China,15.4 - 17.1
+714,lahore university of management sciences (lums),Pakistan,15.4 - 17.1
+715,maynooth university,Ireland,15.4 - 17.1
+716,missouri university of science and technology,United States,15.4 - 17.1
+717,"national technical university ""kharkiv polytechnic institute""",Ukraine,15.4 - 17.1
+718,northumbria university at newcastle,United Kingdom,15.4 - 17.1
+719,samara national research university (samara university),Russia,15.4 - 17.1
+720,shanghai international studies university,China,15.4 - 17.1
+721,technische universität dortmund,Germany,15.4 - 17.1
+722,texas tech university,United States,15.4 - 17.1
+723,universidad adolfo ibáñez,Chile,15.4 - 17.1
+724,universidad de antioquia,Colombia,15.4 - 17.1
+725,universidad de san francisco de quito,Ecuador,15.4 - 17.1
+726,universidad iberoamericana (uia),Mexico,15.4 - 17.1
+727,universidade federal de são carlos,Brazil,15.4 - 17.1
+728,università degli studi di ferrara,Italy,15.4 - 17.1
+729,università degli studi di genova,Italy,15.4 - 17.1
+730,università degli studi di siena (unisi),Italy,15.4 - 17.1
+731,università degli studi di trieste (units),Italy,15.4 - 17.1
+732,universität bielefeld,Germany,15.4 - 17.1
+733,universität düsseldorf,Germany,15.4 - 17.1
+734,universität rostock,Germany,15.4 - 17.1
+735,université de rennes 1,France,15.4 - 17.1
+736,universiti tenaga nasional (uniten),Malaysia,15.4 - 17.1
+737,university of alabama,United States,15.4 - 17.1
+738,university of brescia,Italy,15.4 - 17.1
+739,university of east london,United Kingdom,15.4 - 17.1
+740,university of greenwich,United Kingdom,15.4 - 17.1
+741,university of huddersfield,United Kingdom,15.4 - 17.1
+742,university of kufa,Iraq,15.4 - 17.1
+743,university of patras,Greece,15.4 - 17.1
+744,university of pécs,Hungary,15.4 - 17.1
+745,university of tehran,Iran,15.4 - 17.1
+746,university of tulsa,United States,15.4 - 17.1
+747,vietnam national university - ho chi minh city (vnu-hcm),Vietnam,15.4 - 17.1
+748,yamaguchi university,Japan,15.4 - 17.1
+749,yokohama national university,Japan,15.4 - 17.1
+750,zayed university,United Arab Emirates,15.4 - 17.1
+751,airlangga university,Indonesia,14.3 - 15.3
+752,anna university,India,14.3 - 15.3
+753,beijing foreign studies university,China,14.3 - 15.3
+754,beijing jiaotong university,China,14.3 - 15.3
+755,beijing university of technology,China,14.3 - 15.3
+756,comenius university in bratislava,Slovakia,14.3 - 15.3
+757,comsats institute of information technology,Pakistan,14.3 - 15.3
+758,dublin institute of technology (dit),Ireland,14.3 - 15.3
+759,edith cowan university (ecu),Australia,14.3 - 15.3
+760,german jordanian university,Jordan,14.3 - 15.3
+761,"jamia millia islamia, new delhi",India,14.3 - 15.3
+762,kansas state university,United States,14.3 - 15.3
+763,karaganda state technical university,Kazakhstan,14.3 - 15.3
+764,kaunas university of technology,Lithuania,14.3 - 15.3
+765,kent state university,United States,14.3 - 15.3
+766,london metropolitan university,United Kingdom,14.3 - 15.3
+767,london south bank university,United Kingdom,14.3 - 15.3
+768,manipal university,India,14.3 - 15.3
+769,middlesex university,United Kingdom,14.3 - 15.3
+770,nagoya institute of technology (nit),Japan,14.3 - 15.3
+771,national university lviv polytechnic,Ukraine,14.3 - 15.3
+772,new jersey institute of technology (njit),United States,14.3 - 15.3
+773,oklahoma state university,United States,14.3 - 15.3
+774,paris lodron universität salzburg,Austria,14.3 - 15.3
+775,pontificia universidad católica de valparaíso,Chile,14.3 - 15.3
+776,riga technical university,Latvia,14.3 - 15.3
+777,slovak university of technology in bratislava,Slovakia,14.3 - 15.3
+778,sophia university,Japan,14.3 - 15.3
+779,sumy state university,Ukraine,14.3 - 15.3
+780,tokyo university of science,Japan,14.3 - 15.3
+781,universidad autónoma metropolitana (uam),Mexico,14.3 - 15.3
+782,universidad central de venezuela (ucv),Venezuela,14.3 - 15.3
+783,universidad de guadalajara (udg),Mexico,14.3 - 15.3
+784,universidad de las américas puebla (udlap),Mexico,14.3 - 15.3
+785,universidad nacional costa rica,Costa Rica,14.3 - 15.3
+786,universidad panamericana (up),Mexico,14.3 - 15.3
+787,"universidade católica portuguesa, lisboa",Portugal,14.3 - 15.3
+788,universidade de brasília,Brazil,14.3 - 15.3
+789,universidade federal de santa catarina,Brazil,14.3 - 15.3
+790,università ca' foscari venezia,Italy,14.3 - 15.3
+791,università degli studi di perugia,Italy,14.3 - 15.3
+792,universiti teknologi mara (uitm),Malaysia,14.3 - 15.3
+793,university of brighton,United Kingdom,14.3 - 15.3
+794,university of central florida,United States,14.3 - 15.3
+795,university of electronic science and technology of china,China,14.3 - 15.3
+796,university of hertfordshire,United Kingdom,14.3 - 15.3
+797,university of kwazulu-natal,South Africa,14.3 - 15.3
+798,university of new hampshire,United States,14.3 - 15.3
+799,university of salford,United Kingdom,14.3 - 15.3
+800,university of southern queensland,Australia,14.3 - 15.3
+801,adam mickiewicz university,Poland,7.2 - 14.2
+802,agh university of science and technology,Poland,7.2 - 14.2
+803,ajman university,United Arab Emirates,7.2 - 14.2
+804,al akhawayn university ifrane,Morocco,7.2 - 14.2
+805,al azhar university,Egypt,7.2 - 14.2
+806,alexandria university,Egypt,7.2 - 14.2
+807,alexandru ioan cuza university,Romania,7.2 - 14.2
+808,"aligarh muslim university (amu), aligarh",India,7.2 - 14.2
+809,al-imam mohamed ibn saud islamic university,Saudi Arabia,7.2 - 14.2
+810,amity university,India,7.2 - 14.2
+811,amrita university,India,7.2 - 14.2
+812,ankara üniversitesi,Turkey,7.2 - 14.2
+813,aoyama gakuin university,Japan,7.2 - 14.2
+814,assiut university,Egypt,7.2 - 14.2
+815,athens university of economics and business,Greece,7.2 - 14.2
+816,auburn university,United States,7.2 - 14.2
+817,australian catholic university,Australia,7.2 - 14.2
+818,babes-bolyai university,Romania,7.2 - 14.2
+819,baku state university,Azerbaijan,7.2 - 14.2
+820,banaras hindu university,India,7.2 - 14.2
+821,bangladesh university of engineering and technology,Bangladesh,7.2 - 14.2
+822,baylor university,United States,7.2 - 14.2
+823,belarusian national technical university,Belarus,7.2 - 14.2
+824,benemérita universidad autónoma de puebla,Mexico,7.2 - 14.2
+825,binghamton university suny,United States,7.2 - 14.2
+826,birla institute of technology and science,India,7.2 - 14.2
+827,birzeit university,Palestinian Territory,7.2 - 14.2
+828,brigham young university,United States,7.2 - 14.2
+829,budapest university of technology and economics,Hungary,7.2 - 14.2
+830,central south university,China,7.2 - 14.2
+831,charles sturt university,Australia,7.2 - 14.2
+832,chongqing university,China,7.2 - 14.2
+833,corvinus university of budapest,Hungary,7.2 - 14.2
+834,cracow university of technology,Poland,7.2 - 14.2
+835,de la salle university,Philippines,7.2 - 14.2
+836,diponegoro university,Indonesia,7.2 - 14.2
+837,doshisha university,Japan,7.2 - 14.2
+838,edinburgh napier university,United Kingdom,7.2 - 14.2
+839,escuela superior politécnica del litoral - espol,Ecuador,7.2 - 14.2
+840,feng chia university,Taiwan,7.2 - 14.2
+841,florida international university,United States,7.2 - 14.2
+842,fordham university,United States,7.2 - 14.2
+843,fu jen catholic university,Taiwan,7.2 - 14.2
+844,gazi üniversitesi,Turkey,7.2 - 14.2
+845,george mason university,United States,7.2 - 14.2
+846,hacettepe university,Turkey,7.2 - 14.2
+847,istanbul university,Turkey,7.2 - 14.2
+848,kasetsart university,Thailand,7.2 - 14.2
+849,kazakh ablai khan university of international relations and world languages,Kazakhstan,7.2 - 14.2
+850,khon kaen university,Thailand,7.2 - 14.2
+851,king faisal university,Saudi Arabia,7.2 - 14.2
+852,king mongkut's university of technology thonburi,Thailand,7.2 - 14.2
+853,kuwait university,Kuwait,7.2 - 14.2
+854,kyoto institute of technology,Japan,7.2 - 14.2
+855,kyushu institute of technology,Japan,7.2 - 14.2
+856,lodz university of technology,Poland,7.2 - 14.2
+857,loyola university chicago,United States,7.2 - 14.2
+858,manchester metropolitan university,United Kingdom,7.2 - 14.2
+859,marquette university,United States,7.2 - 14.2
+860,meiji university,Japan,7.2 - 14.2
+861,miami university,United States,7.2 - 14.2
+862,multimedia university (mmu),Malaysia,7.2 - 14.2
+863,mustansiriyah university,Iraq,7.2 - 14.2
+864,national chung cheng university,Taiwan,7.2 - 14.2
+865,nicolaus copernicus university,Poland,7.2 - 14.2
+866,north-west university,South Africa,7.2 - 14.2
+867,notre dame university - louaize (ndu),Lebanon,7.2 - 14.2
+868,nottingham trent university,United Kingdom,7.2 - 14.2
+869,novosibirsk state technical university,Russia,7.2 - 14.2
+870,ochanomizu university,Japan,7.2 - 14.2
+871,ohio university,United States,7.2 - 14.2
+872,plekhanov russian university of economics,Russia,7.2 - 14.2
+873,pontificia universidad católica del ecuador,Ecuador,7.2 - 14.2
+874,pontifícia universidade católica do rio grande do sul,Brazil,7.2 - 14.2
+875,poznan university of technology,Poland,7.2 - 14.2
+876,prince of songkla university,Thailand,7.2 - 14.2
+877,rhodes university,South Africa,7.2 - 14.2
+878,riga stradins university,Latvia,7.2 - 14.2
+879,ritsumeikan university,Japan,7.2 - 14.2
+880,ryerson university,Canada,7.2 - 14.2
+881,saitama university,Japan,7.2 - 14.2
+882,san diego state university,United States,7.2 - 14.2
+883,savitribai phule pune university,India,7.2 - 14.2
+884,seoul national university of science and technology,South Korea,7.2 - 14.2
+885,sepuluh nopember institute of technology,Indonesia,7.2 - 14.2
+886,shahid beheshti university tehran,Iran,7.2 - 14.2
+887,shinshu university,Japan,7.2 - 14.2
+888,shiraz university,Iran,7.2 - 14.2
+889,siberian federal university,Russia,7.2 - 14.2
+890,"sofia university ""st. kliment ohridski""",Bulgaria,7.2 - 14.2
+891,south ural state university,Russia,7.2 - 14.2
+892,southern cross university,Australia,7.2 - 14.2
+893,tallinn university,Estonia,7.2 - 14.2
+894,technical university of kosice,Slovakia,7.2 - 14.2
+895,tecnológico de costa rica -tec,Costa Rica,7.2 - 14.2
+896,thapar university,India,7.2 - 14.2
+897,the robert gordon university,United Kingdom,7.2 - 14.2
+898,tokai university,Japan,7.2 - 14.2
+899,universidad austral de chile,Chile,7.2 - 14.2
+900,universidad autónoma de nuevo león (uanl),Mexico,7.2 - 14.2
+901,universidad autónoma del estado de méxico,Mexico,7.2 - 14.2
+902,universidad católica andrés bello - ucab,Venezuela,7.2 - 14.2
+903,universidad de castilla-la mancha,Spain,7.2 - 14.2
+904,universidad de la república (udelar),Uruguay,7.2 - 14.2
+905,universidad de la sabana,Colombia,7.2 - 14.2
+906,universidad de los andes mérida,Venezuela,7.2 - 14.2
+907,universidad de monterrey,Mexico,7.2 - 14.2
+908,universidad de murcia,Spain,7.2 - 14.2
+909,universidad de oviedo,Spain,7.2 - 14.2
+910,universidad de puerto rico,Puerto Rico,7.2 - 14.2
+911,universidad de talca,Chile,7.2 - 14.2
+912,universidad de valparaíso,Chile,7.2 - 14.2
+913,universidad del norte,Colombia,7.2 - 14.2
+914,universidad del rosario,Colombia,7.2 - 14.2
+915,universidad del valle,Colombia,7.2 - 14.2
+916,universidad diego portales,Chile,7.2 - 14.2
+917,universidad eafit,Colombia,7.2 - 14.2
+918,universidad industrial de santander,Colombia,7.2 - 14.2
+919,universidad latinoamericana de ciencia y tecnología costa rica (ulacit),Costa Rica,7.2 - 14.2
+920,universidad metropolitana,Venezuela,7.2 - 14.2
+921,universidad nacional de córdoba,Argentina,7.2 - 14.2
+922,universidad nacional de cuyo,Argentina,7.2 - 14.2
+923,universidad nacional de mar del plata,Argentina,7.2 - 14.2
+924,universidad nacional de rosario,Argentina,7.2 - 14.2
+925,universidad nacional del litoral,Argentina,7.2 - 14.2
+926,universidad nacional mayor de san marcos,Peru,7.2 - 14.2
+927,universidad peruana cayetano heredia,Peru,7.2 - 14.2
+928,universidad rey juan carlos,Spain,7.2 - 14.2
+929,universidad simón bolívar venezuela,Venezuela,7.2 - 14.2
+930,universidad técnica federico santa maría,Chile,7.2 - 14.2
+931,universidad tecnológica de panamá (utp),Panama,7.2 - 14.2
+932,universidad tecnológica nacional (utn),Argentina,7.2 - 14.2
+933,universidade da coruña,Spain,7.2 - 14.2
+934,universidade de vigo,Spain,7.2 - 14.2
+935,universidade do estado do rio de janeiro (uerj),Brazil,7.2 - 14.2
+936,universidade estadual de londrina,Brazil,7.2 - 14.2
+937,universidade federal da bahia,Brazil,7.2 - 14.2
+938,universidade federal de santa maria,Brazil,7.2 - 14.2
+939,universidade federal de viçosa,Brazil,7.2 - 14.2
+940,universidade federal do ceará (ufc),Brazil,7.2 - 14.2
+941,universidade federal do paraná (ufpr),Brazil,7.2 - 14.2
+942,universidade federal do pernambuco,Brazil,7.2 - 14.2
+943,universidade federal fluminense,Brazil,7.2 - 14.2
+944,università degli studi di catania (unict),Italy,7.2 - 14.2
+945,università degli studi di modena e reggio emilia,Italy,7.2 - 14.2
+946,università degli studi roma tre,Italy,7.2 - 14.2
+947,università  degli studi di palermo,Italy,7.2 - 14.2
+948,université de caen basse-normandie,France,7.2 - 14.2
+949,université de cergy-pontoise,France,7.2 - 14.2
+950,université de lorraine,France,7.2 - 14.2
+951,université de nantes,France,7.2 - 14.2
+952,université de poitiers,France,7.2 - 14.2
+953,université jean moulin lyon 3,France,7.2 - 14.2
+954,université lumière lyon 2,France,7.2 - 14.2
+955,université paris ouest nanterre la défense,France,7.2 - 14.2
+956,université paul-valéry montpellier 3,France,7.2 - 14.2
+957,"université toulouse 1, capitole",France,7.2 - 14.2
+958,university of arkansas,United States,7.2 - 14.2
+959,university of babylon,Iraq,7.2 - 14.2
+960,university of bahrain,Bahrain,7.2 - 14.2
+961,university of bari,Italy,7.2 - 14.2
+962,university of belgrade,Serbia,7.2 - 14.2
+963,university of brawijaya,Indonesia,7.2 - 14.2
+964,university of bucharest,Romania,7.2 - 14.2
+965,university of calcutta,India,7.2 - 14.2
+966,university of central lancashire,United Kingdom,7.2 - 14.2
+967,university of colombo,Sri Lanka,7.2 - 14.2
+968,university of dhaka,Bangladesh,7.2 - 14.2
+969,university of engineering & technology (uet) lahore,Pakistan,7.2 - 14.2
+970,university of gdansk,Poland,7.2 - 14.2
+971,university of latvia,Latvia,7.2 - 14.2
+972,university of lodz,Poland,7.2 - 14.2
+973,university of maribor,Slovenia,7.2 - 14.2
+974,university of mississippi,United States,7.2 - 14.2
+975,university of montana missoula,United States,7.2 - 14.2
+976,university of mumbai,India,7.2 - 14.2
+977,university of nairobi,Kenya,7.2 - 14.2
+978,university of new england,Australia,7.2 - 14.2
+979,university of san diego,United States,7.2 - 14.2
+980,university of san francisco,United States,7.2 - 14.2
+981,university of santo tomas,Philippines,7.2 - 14.2
+982,university of silesia,Poland,7.2 - 14.2
+983,university of the pacific,United States,7.2 - 14.2
+984,university of the punjab,Pakistan,7.2 - 14.2
+985,university of the sunshine coast,Australia,7.2 - 14.2
+986,university of the western cape,South Africa,7.2 - 14.2
+987,university of wroclaw,Poland,7.2 - 14.2
+988,university of zagreb,Croatia,7.2 - 14.2
+989,university politehnica of bucharest,Romania,7.2 - 14.2
+990,university toulouse – jean jaurès,France,7.2 - 14.2
+991,utah state university,United States,7.2 - 14.2
+992,vellore institute of technology (vit),India,7.2 - 14.2
+993,verona university,Italy,7.2 - 14.2
+994,"vietnam national university, hanoi",Vietnam,7.2 - 14.2
+995,voronezh state university,Russia,7.2 - 14.2
+996,vytautas magnus university,Lithuania,7.2 - 14.2
+997,west university of timisoara,Romania,7.2 - 14.2
+998,wroclaw university of technology,Poland,7.2 - 14.2
+999,yeungnam university,South Korea,7.2 - 14.2
+1000,baylor college of medicine,United States,-
+1001,bi norwegian business school,Norway,-
+1002,central european university,Hungary,-
+1003,copenhagen business school,Denmark,-
+1004,cranfield university,United Kingdom,-
+1005,escp europe,France,-
+1006,"essec business school, paris",France,-
+1007,"grenoble inp, grenoble institute of technology",France,-
+1008,hec paris,France,-
+1009,insead (france),France,-
+1010,jawaharlal nehru university,India,-
+1011,karolinska institute,Sweden,-
+1012,king abdullah university of science & technology (kaust),Saudi Arabia,-
+1013,london business school,United Kingdom,-
+1014,stockholm school of economics,Sweden,-
+1015,università commerciale luigi bocconi,Italy,-
+1016,"université de technologie, compiègne (utc)",France,-
+1017,"university of california, san francisco (ucsf)",United States,-
+1018,"university of economics, prague",Czech Republic,-
+1019,weizmann institute of science,Israel,-
+1020,whu otto beisheim school of management - koblenz,Germany,-
+1021,,,
+1022,,,
+1023,,,
+1024,find the rankings methodology on www.iu.qs.com,,
