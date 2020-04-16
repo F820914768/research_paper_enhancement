@@ -42,7 +42,7 @@ if __name__ == "__main__":
 
     filename = sys.argv[1]
     tablename = re.sub(r'\.csv|\.xlsx', '', filename)
-    dbname = './data/project' + '.db'
+    dbname = './db/project' + '.db'
     logfile = open('./log/' + tablename+ '.log', 'w', encoding='utf-8')
 
     if os.path.exists(dbname):
