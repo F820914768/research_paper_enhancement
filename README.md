@@ -4,4 +4,8 @@
 
 -- > python create_db.py tablefilename
 
-E.X. python create_db.py institution.csv
+E.X. 
+
+python create_db.py institution.csv
+
+python create_db.py QS.csv
